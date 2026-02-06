@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Environment variables
+.env
+
+# Prisma / DB
+*.db
+prisma/dev.db
+
+# Generated files
+generated/
+
+# Logs
+npm-debug.log*
+
+
+
