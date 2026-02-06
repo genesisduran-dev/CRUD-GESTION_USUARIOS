@@ -44,7 +44,7 @@ Este proyecto forma parte de mi portafolio como desarrolladora en formación, en
 
 ---
 
-## 🧠 Descripción general
+# Descripción general
 
 El sistema permite:
 
@@ -59,7 +59,7 @@ Incluye una estructura clara separando frontend y backend, y sirve como base par
 
 ---
 
-## 🚀 Tecnologías utilizadas
+# Tecnologías utilizadas
 
 - **Node.js**
 - **Express.js**
