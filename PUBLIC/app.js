@@ -147,7 +147,7 @@ async function eliminar() {
     return;
   }
 
-  await listar();              // <- CLAVE: esperar a que pinte la tabla
+  await listar();             
   limpiarFormulario();
   mostrarMensaje("Eliminado 🗑️", "info");
 }
