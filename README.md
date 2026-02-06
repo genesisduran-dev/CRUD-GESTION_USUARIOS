@@ -4,7 +4,7 @@ Aplicación **CRUD (Create, Read, Update, Delete)** desarrollada con **Node.js, 
 Este proyecto forma parte de mi portafolio como desarrolladora en formación, enfocado en **backend**, **persistencia de datos**, y **buenas prácticas con Git y GitHub (SSH)**.
 
 NOTA: Este proyecto esta sujeto a cambios y a mejoras, fue creado para consolidar los conocimientos aprendidos mediante el desarrollo del mismo.
-inmediatamente instales las de pendencias para que se ejecute tu base de datos con SQLITE configurar las variables de entorno creando un archivo .env
+inmediatamente instales las dependencias para que se ejecute tu base de datos con SQLITE configurar las variables de entorno creando un archivo .env
 
 ---
 
